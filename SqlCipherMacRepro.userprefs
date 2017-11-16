@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6973EA0C-96E8-4662-A80C-09566568A93B}|Default">
+  <MonoDevelop.Ide.ItemProperties.SqlCipherMacRepro PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SqlCipherMacRepro/AppDelegate.cs">
+    <Files>
+      <File FileName="SqlCipherMacRepro/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
